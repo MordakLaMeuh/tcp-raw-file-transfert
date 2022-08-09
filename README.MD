@@ -12,7 +12,9 @@
 - 4 bytes for file size
 - 116 bytes for file name, must be terminated by \0 like C Style
 
-Then all the file content
+## Content
+
+- All te file content
 
 # Commands
 
